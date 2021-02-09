@@ -21,7 +21,7 @@ pip3 install -r requirements.txt
 python3 tic_tac_toe.py
 ```
 
-## Dependencies:
+## Requirements:
 - os: built-in python module
 - random: built-in python module
 - [colorama](https://pypi.org/project/colorama/): not a built-in python module (Windows user -> `pip install colorama` Linux user -> `pip3 install colorama`)
